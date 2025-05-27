@@ -20,7 +20,7 @@ body {
 
 h1 {
   text-align: center;
-  color: #0d1d72;
+  color: #0124d3;
   font-size: 24px;
   letter-spacing: 2px;
 }
@@ -53,7 +53,7 @@ hr {
 .btn {
   display: inline-block;
   padding: 12px 20px;
-  background-color: #001aff;
+  background-color: #ffc800;
   color: white;
   text-decoration: none;
   font-size: 16px;
@@ -62,5 +62,5 @@ hr {
 }
 
 .btn:hover {
-  background-color: #0056b3;
+  background-color: #eb8f05;
 }
